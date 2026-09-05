@@ -22,7 +22,7 @@ once — see "Roadmap" below.
 - [x] Project setup (Spring Boot + PostgreSQL connected)
 - [x] User entity + registration endpoint (`POST /api/auth/register`)
 - [x] Password hashing with BCrypt
-- [ ] Login with JWT authentication
+- [x] Login with JWT authentication
 - [ ] Medicine CRUD (create, view)
 - [ ] Medication scheduling
 - [ ] Mark scheduled dose as taken
